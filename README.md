@@ -25,6 +25,9 @@ The dataset was prepared using Pandas, including:
 - Removing duplicate records
 - Standardizing categorical values (Airline, Status)
 - Creating calculated columns for Delay Category
+## Dashboard
+[Airplane Operations Performance Dashboard](dashboard.png)
+
 
 ### 💡 Key Insights
 1.  IndiGo operates the highest number of flights, driving volume.
