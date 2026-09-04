@@ -26,7 +26,7 @@ The dataset was prepared using Pandas, including:
 - Standardizing categorical values (Airline, Status)
 - Creating calculated columns for Delay Category
 ## Dashboard
-[Airplane Operations Performance Dashboard](dashboard.png)
+[Airplane Operations Performance Dashboard](Screenshot 2026-09-03 110851.png)
 
 
 ### 💡 Key Insights
